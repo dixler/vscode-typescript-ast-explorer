@@ -1,9 +1,9 @@
 {
     "name": "vscode-typescript-ast-explorer",
     "displayName": "TypeScript AST Explorer",
-    "description": "An Explorer view that displays the AST of the currently active TypeScript document",
+    "description": "krizzdewizz's Typescript AST Explorer, but forked. An Explorer view that displays the AST of the currently active TypeScript document",
     "version": "1.0.0",
-    "publisher": "krizzdewizz",
+    "publisher": "dixler",
     "engines": {
         "vscode": "^1.13.0"
     },
